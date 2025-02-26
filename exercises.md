@@ -3,6 +3,6 @@ layout: default
 title: "Exercises"
 ---
 
-Welcome to the exercises!
+Make sure to download both the activity and the corresponding dataset. 
 - [Customer Churn Activity](customerchurn.html)
     - [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
