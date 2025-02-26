@@ -3,7 +3,7 @@ theme: minima
 # For navigation, if your theme supports it:
 nav:
   - title: Home
-    url: /
+    url: /index.md
   - title: About
     url: /about/
   - title: Blog
