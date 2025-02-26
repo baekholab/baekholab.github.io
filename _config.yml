@@ -8,3 +8,5 @@ nav:
     url: /about.md
   - title: Blog
     url: /blog/
+  - title: Exercises
+    url: /exercises.md
