@@ -10,3 +10,5 @@ nav:
     url: /blog/
   - title: Exercises
     url: /exercises.md
+  - title: Visualizations
+    url: /visualizations.md
